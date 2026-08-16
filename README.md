@@ -34,7 +34,7 @@ Alternativamente, é possível adquirir o altímetro através da empresa 2Xi pel
 
 ## Como utilizar o AltBAR
 -	Insira a bateria CR1025 no altímetro.
--	Mude a chave para a posição “on”. O LED piscará três vezes indicando a inicialização. Em seguida, caso haja dados na memória, o LED piscará o apogeu. 
+-	Mude a chave para a posição “on”. Em seguida, caso haja dados na memória, o LED piscará o apogeu. O apogeu é apresentado do algarismo mais significativo para o menos significativo, ou seja, unidade de milhar, centena, dezena até décimo de metro. O algarismo zero é indicado por uma piscada longa. Por exemplo, 5 piscadas rápidas, seguidas de uma piscada longa, seguida por 4 piscadas rápidas, representam 50,4 m.
 -	Insira o altímetro no minifoguete dentro de 60 s após ligá-lo. Esse é o tempo que o altímetro reserva para evitar que a inserção no minifoguete possa causar um falso evento de decolagem. Passados os 60 s, o LED pisca a cada um segundo, indicando que o altímetro está pronto para o lançamento.
 -	Lance o minifoguete.
 -	Recupere o altímetro, mova a chave para a posição “off” e aguarde 15 segundos antes de ligá-lo novamente. 
